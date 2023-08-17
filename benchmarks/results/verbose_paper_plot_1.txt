@@ -1,0 +1,48 @@
+Rejecting null hypothesis that data is normal for column COBYLA (p=0.001357<0.007143)
+Rejecting null hypothesis that data is normal for column DE (p=0.001362<0.007143)
+Rejecting null hypothesis that data is normal for column EMNA (p=0.000000<0.007143)
+Fail to reject null hypothesis that data is normal for column ND (p=0.015613>=0.007143)
+Fail to reject null hypothesis that data is normal for column PSO (p=0.013666>=0.007143)
+Rejecting null hypothesis that data is normal for column RS (p=0.001338<0.007143)
+Rejecting null hypothesis that data is normal for column dCMAES (p=0.001301<0.007143)
+Using Levene's test for homoscedacity of non-normal data.
+Fail to reject null hypothesis that all variances are equal (p=0.498212>=0.050000)
+Using Friedman test as omnibus test
+Rejecting null hypothesis that there is no difference between the distributions (p=0.000001)
+Using Nemenyi post-hoc test. Differences are significant,if the distance between the mean ranks is greater than the critical distance.
+Rejecting null hypothesis that data is normal for column COBYLA (p=0.001171<0.007143)
+Rejecting null hypothesis that data is normal for column DE (p=0.001171<0.007143)
+Rejecting null hypothesis that data is normal for column EMNA (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column ND (p=0.000004<0.007143)
+Rejecting null hypothesis that data is normal for column PSO (p=0.002057<0.007143)
+Rejecting null hypothesis that data is normal for column RS (p=0.001718<0.007143)
+Rejecting null hypothesis that data is normal for column dCMAES (p=0.003759<0.007143)
+Using Levene's test for homoscedacity of non-normal data.
+Fail to reject null hypothesis that all variances are equal (p=0.250480>=0.050000)
+Using Friedman test as omnibus test
+Rejecting null hypothesis that there is no difference between the distributions (p=0.000000)
+Using Nemenyi post-hoc test. Differences are significant,if the distance between the mean ranks is greater than the critical distance.
+Rejecting null hypothesis that data is normal for column COBYLA (p=0.001311<0.007143)
+Rejecting null hypothesis that data is normal for column DE (p=0.001353<0.007143)
+Rejecting null hypothesis that data is normal for column EMNA (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column ND (p=0.001043<0.007143)
+Rejecting null hypothesis that data is normal for column PSO (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column RS (p=0.000611<0.007143)
+Rejecting null hypothesis that data is normal for column dCMAES (p=0.001313<0.007143)
+Using Levene's test for homoscedacity of non-normal data.
+Fail to reject null hypothesis that all variances are equal (p=0.372254>=0.050000)
+Using Friedman test as omnibus test
+Rejecting null hypothesis that there is no difference between the distributions (p=0.000000)
+Using Nemenyi post-hoc test. Differences are significant,if the distance between the mean ranks is greater than the critical distance.
+Rejecting null hypothesis that data is normal for column COBYLA (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column DE (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column EMNA (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column ND (p=0.000009<0.007143)
+Rejecting null hypothesis that data is normal for column PSO (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column RS (p=0.000000<0.007143)
+Rejecting null hypothesis that data is normal for column dCMAES (p=0.000004<0.007143)
+Using Levene's test for homoscedacity of non-normal data.
+Fail to reject null hypothesis that all variances are equal (p=0.517777>=0.050000)
+Using Friedman test as omnibus test
+Rejecting null hypothesis that there is no difference between the distributions (p=0.000000)
+Using Nemenyi post-hoc test. Differences are significant,if the distance between the mean ranks is greater than the critical distance.
